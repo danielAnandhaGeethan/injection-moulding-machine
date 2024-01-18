@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Machine 1",
+    "Target": "100",
+    "Achieved": "95",
+    "Status": "Running"
+  },
+  {
+    "Name": "Machine 2",
+    "Target": "100",
+    "Achieved": "50",
+    "Status": "Done"
+  },
+  {
+    "Name": "Machine 3",
+    "Target": "100",
+    "Achieved": "85",
+    "Status": "Done"
+  },
+  {
+    "Name": "Machine 4",
+    "Target": "100",
+    "Achieved": "50",
+    "Status": "Done"
+  },
+  {
+    "Name": "Machine 5",
+    "Target": "100",
+    "Achieved": "90",
+    "Status": "Done"
+  },
+  {
+    "Name": "Machine 6",
+    "Target": "100",
+    "Achieved": "50",
+    "Status": "Running"
+  }
+]
