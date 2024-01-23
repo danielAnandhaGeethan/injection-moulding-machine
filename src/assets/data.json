@@ -1,38 +1,164 @@
 [
   {
+    "id": 1,
     "Name": "Machine 1",
-    "Target": "100",
-    "Achieved": "95",
-    "Status": "Running"
+    "Data": [
+      {
+        "Name": "Shift 1",
+        "Target": "100",
+        "Achieved": "55",
+        "Status": "Done",
+        "Remarks": ""
+      },
+      {
+        "Name": "Shift 2",
+        "Target": "100",
+        "Achieved": "95",
+        "Status": "Done",
+        "Remarks": ""
+      },
+      {
+        "Name": "Shift 3",
+        "Target": "100",
+        "Achieved": "95",
+        "Status": "Running",
+        "Remarks": ""
+      }
+    ]
   },
   {
+    "id": 2,
     "Name": "Machine 2",
-    "Target": "100",
-    "Achieved": "50",
-    "Status": "Done"
+    "Data": [
+      {
+        "Name": "Shift 1",
+        "Target": "100",
+        "Achieved": "95",
+        "Status": "Running",
+        "Remarks": ""
+      },
+      {
+        "Name": "Shift 2",
+        "Target": "100",
+        "Achieved": "95",
+        "Status": "Running",
+        "Remarks": ""
+      },
+      {
+        "Name": "Shift 3",
+        "Target": "100",
+        "Achieved": "95",
+        "Status": "Running",
+        "Remarks": ""
+      }
+    ]
   },
   {
+    "id": 3,
     "Name": "Machine 3",
-    "Target": "100",
-    "Achieved": "85",
-    "Status": "Done"
+    "Data": [
+      {
+        "Name": "Shift 1",
+        "Target": "100",
+        "Achieved": "95",
+        "Status": "Running",
+        "Remarks": ""
+      },
+      {
+        "Name": "Shift 2",
+        "Target": "100",
+        "Achieved": "95",
+        "Status": "Running",
+        "Remarks": ""
+      },
+      {
+        "Name": "Shift 3",
+        "Target": "100",
+        "Achieved": "95",
+        "Status": "Running",
+        "Remarks": ""
+      }
+    ]
   },
   {
+    "id": 4,
     "Name": "Machine 4",
-    "Target": "100",
-    "Achieved": "50",
-    "Status": "Done"
+    "Data": [
+      {
+        "Name": "Shift 1",
+        "Target": "100",
+        "Achieved": "95",
+        "Status": "Running",
+        "Remarks": ""
+      },
+      {
+        "Name": "Shift 2",
+        "Target": "100",
+        "Achieved": "95",
+        "Status": "Running",
+        "Remarks": ""
+      },
+      {
+        "Name": "Shift 3",
+        "Target": "100",
+        "Achieved": "95",
+        "Status": "Running",
+        "Remarks": ""
+      }
+    ]
   },
   {
+    "id": 5,
     "Name": "Machine 5",
-    "Target": "100",
-    "Achieved": "90",
-    "Status": "Done"
+    "Data": [
+      {
+        "Name": "Shift 1",
+        "Target": "100",
+        "Achieved": "95",
+        "Status": "Running",
+        "Remarks": ""
+      },
+      {
+        "Name": "Shift 2",
+        "Target": "100",
+        "Achieved": "95",
+        "Status": "Running",
+        "Remarks": ""
+      },
+      {
+        "Name": "Shift 3",
+        "Target": "100",
+        "Achieved": "95",
+        "Status": "Running",
+        "Remarks": ""
+      }
+    ]
   },
   {
+    "id": 6,
     "Name": "Machine 6",
-    "Target": "100",
-    "Achieved": "50",
-    "Status": "Running"
+    "Data": [
+      {
+        "Name": "Shift 1",
+        "Target": "100",
+        "Achieved": "95",
+        "Status": "Running",
+        "Remarks": ""
+      },
+      {
+        "Name": "Shift 2",
+        "Target": "100",
+        "Achieved": "95",
+        "Status": "Running",
+        "Remarks": ""
+      },
+      {
+        "Name": "Shift 3",
+        "Target": "100",
+        "Achieved": "95",
+        "Status": "Running",
+        "Remarks": ""
+      }
+    ]
   }
 ]
