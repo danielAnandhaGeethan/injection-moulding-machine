@@ -31,7 +31,7 @@ const Shift = ({ index, shift_data, efficiency }) => {
         </h1>
         <h1 className="flex justify-between text-sm gap-4">
           <span className="text-white">Remarks </span>
-          <span className="text-white">This is not very at all good</span>
+          <span className="text-white"></span>
         </h1>
       </div>
     </div>
