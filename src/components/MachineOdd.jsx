@@ -11,7 +11,7 @@ const MachineOdd = ({
   return (
     <div
       onClick={() => machineOnClick(index)}
-      className="flex justify-center items-center gap-2 h-full"
+      className="flex flex-col md:flex-row items-center md:justify-center h-full gap-3"
       key={index}
     >
       <div className="bg-white border shadow-md shadow-gray-600 hover:scale-105 rounded-xl flex items-center h-[191px]">

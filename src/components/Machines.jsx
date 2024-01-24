@@ -37,7 +37,7 @@ const Machines = () => {
   return (
     <div className="">
       <div className="px-10 py-10 md:px-20 md:py-20">
-        <div className="grid xs:grid-cols-1 md:grid-cols-2 md:gap-28 lg:flex lg:flex-col lg:items-center lg:gap-[50px]">
+        <div className="grid xs:grid-cols-1 md:grid-cols-2 gap-10 md:gap-28 lg:flex lg:flex-col lg:items-center lg:gap-42">
           {data.map((machine, index) =>
             machine.id % 2 === 1 ? (
               <MachineOdd

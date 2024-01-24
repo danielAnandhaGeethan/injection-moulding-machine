@@ -11,7 +11,7 @@ const MachineEven = ({
   return (
     <div
       onClick={() => machineOnClick(index)}
-      className="flex items-center gap-2 justify-center h-full"
+      className="flex flex-col md:flex-row items-center md:justify-center h-full gap-3"
       key={index}
     >
       <div
@@ -30,7 +30,7 @@ const MachineEven = ({
           />
         ))}
       </div>
-      <div className="bg-white border shadow-md shadow-gray-600 hover:scale-105 rounded-xl flex items-center h-[191px]">
+      <div className="bg-white border shadow-md shadow-gray-600 hover:scale-105 rounded-xl flex items-center h-[191px] order-first md:order-last">
         <div className="bg-gray-400 py-10 px-5 mx-3 rounded-xl bg-opacity-80 border-2 border-gray-500">
           <h1 className="text-xl text-white">{machine.Name}</h1>
         </div>
