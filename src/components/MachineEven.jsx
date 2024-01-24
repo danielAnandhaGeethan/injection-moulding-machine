@@ -17,7 +17,7 @@ const MachineEven = ({
       <div
         className={`${
           currentOpen.includes(index)
-            ? "bg-white bg-opacity-20 px-8 py-2 flex flex-col relative lg:flex-row gap-10 md:gap-28 xl:gap-42 shadow-md border rounded-xl"
+            ? "bg-white bg-opacity-20 px-3 py-5 flex flex-col relative lg:flex-row gap-8 md:gap-24 xl:gap-28 shadow-md border rounded-xl"
             : "opacity-0 absolute pointer-events-none"
         } transition-transform transition-opacity duration-1000 ease-in-out`}
       >
